@@ -41,7 +41,7 @@ assigned to a specific claim.
 
 - $ FixedExpensesPerPolicy $ day-to-day running expenses for facilitating insurance coverage overall. Commercial rent, server costs, etc. 
 
-- $ VariableExpensesPerPolicy $, expenses which are unrelated to specific policies, and, could be specific to the annual year. E.g. Covid pandemic of 2020-2021 could result in lower insurance claims therefore having a smaller  $VariableExpensesPerPolicy$ for that annual year. 
+- $ VariableExpensesPerPolicy $, expenses which are unrelated to specific policies, and, could be specific to the annual year. E.g. Covid pandemic of 2020-2021 could result in lower insurance claims therefore having a smaller  $ VariableExpensesPerPolicy $ for that annual year. 
 
 - $ ProfitLoading $, similar to a profit margin; you as an executive, get to determine on how much to charge your customers.
 
